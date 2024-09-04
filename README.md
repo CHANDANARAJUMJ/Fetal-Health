@@ -23,4 +23,8 @@ This project focuses on classifying fetal health status through a comprehensive 
 
 ### 5. Results:
    - Among the five models, the Random Forest demonstrated the highest accuracy and overall effectiveness in predicting fetal health. Detailed performance metrics and visualizations (e.g., confusion matrices) are provided to highlight the strengths and weaknesses of each model.
+     
+### Publication:
+I have published a paper on this work titled "Optimizing Fetal Health Classification," where I delve deeper into the methodology and findings. This project serves as a practical implementation of the concepts discussed in the paper.
+
 
