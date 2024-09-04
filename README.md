@@ -4,7 +4,7 @@ This project focuses on classifying fetal health status through a comprehensive 
 
 ### 1. Data Preprocessing:
    - The dataset, containing various medical indicators related to fetal health, is initially cleaned to remove any inconsistencies or missing values.
-   - Standardization is applied using `StandardScaler` to ensure that all features contribute equally to the model.
+   - Standardization is applied using StandardScaler to ensure that all features contribute equally to the model.
 
 ### 2. SMOTE Technique:
    - **SMOTE (Synthetic Minority Over-sampling Technique)** is employed to address class imbalance in the dataset. This technique generates synthetic samples for the minority class, helping to create a more balanced training set and improving model performance.
