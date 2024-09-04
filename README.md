@@ -26,5 +26,6 @@ This project focuses on classifying fetal health status through a comprehensive 
      
 ### Publication:
 I have published a paper on this work titled "Optimizing Fetal Health Classification using PCA and SMOTE Techniques," where I delve deeper into the methodology and findings. This project serves as a practical implementation of the concepts discussed in the paper.
+The research paper is also added in this repo file named as "7106" in pdf format
 
 
